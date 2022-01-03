@@ -1,0 +1,9 @@
+*pycache*
+mano/m*
+mano/w*
+mano/*.py
+*.pdf
+*.mp4
+*.avi
+*.png
+*.pth

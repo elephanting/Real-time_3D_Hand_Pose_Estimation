@@ -1,0 +1,16 @@
+Cython
+torch==1.8.0
+open3d==0.9.0
+numpy==1.19.5
+opencv-python>=4.1.2
+PyYAML>=5.3
+scipy>=1.4.1
+torchvision==0.9.0
+matplotlib
+tqdm
+chumpy
+einops
+transforms3d
+termcolor
+pytorch3d
+progress

@@ -1,0 +1,6 @@
+[submodule "yolov3/yolov3"]
+	path = yolov3/yolov3
+	url = https://github.com/elephanting/yolov3
+[submodule "manopth"]
+	path = manopth
+	url = https://github.com/elephanting/manopth
